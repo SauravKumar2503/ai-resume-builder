@@ -1,11 +1,12 @@
-<img width="1002" height="457" alt="Screenshot 2025-12-23 123820" src="https://github.com/user-attachments/assets/b07f1524-c911-4ab0-9592-4c88db158005" />
-<img width="1897" height="876" alt="Screenshot 2025-12-23 123803" src="https://github.com/user-attachments/assets/93a3bc0e-965c-45e0-9abe-d2a829d3abf2" />
+
+
 
 
 🧠 AI Resume Builder
 
 A modern, full-stack AI-powered resume builder web application that helps users create professional resumes quickly and effortlessly. This project leverages cutting-edge technologies for a responsive frontend and robust backend services — empowering users to design, edit, and generate resumes using smart UI features./>
 
+<img width="1897" height="876" alt="Screenshot 2025-12-23 123803" src="https://github.com/user-attachments/assets/93a3bc0e-965c-45e0-9abe-d2a829d3abf2" />
 
 📌 Project Overview
 
@@ -14,6 +15,8 @@ AI Resume Builder enables users to:
 ✍️ Enter personal & professional details easily.
 
 📄 Generate resume content dynamically.
+
+<img width="1002" height="457" alt="Screenshot 2025-12-23 123820" src="https://github.com/user-attachments/assets/b07f1524-c911-4ab0-9592-4c88db158005" />
 
 🖼️ Preview changes in real-time.
 
